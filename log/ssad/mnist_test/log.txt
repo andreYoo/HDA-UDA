@@ -1,0 +1,14 @@
+2022-07-13 20:07:21,150 - root - INFO - Log file is ../log/ssad/mnist_test/log.txt.
+2022-07-13 20:07:21,150 - root - INFO - Data path is ../data.
+2022-07-13 20:07:21,150 - root - INFO - Export path is ../log/ssad/mnist_test.
+2022-07-13 20:07:21,150 - root - INFO - Dataset: mnist
+2022-07-13 20:07:21,150 - root - INFO - Normal class: 0
+2022-07-13 20:07:21,150 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-07-13 20:07:21,150 - root - INFO - Ratio of labeled anomalous samples: 0.01
+2022-07-13 20:07:21,150 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2022-07-13 20:07:21,150 - root - INFO - Known anomaly class: 1
+2022-07-13 20:07:21,150 - root - INFO - SSAD kernel: rbf
+2022-07-13 20:07:21,150 - root - INFO - Kappa-paramerter: 1.00
+2022-07-13 20:07:21,150 - root - INFO - Hybrid model: False
+2022-07-13 20:07:21,150 - root - INFO - Computation device: cpu
+2022-07-13 20:07:21,150 - root - INFO - Number of dataloader workers: 0

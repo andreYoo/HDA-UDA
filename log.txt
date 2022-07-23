@@ -1,0 +1,1000 @@
+   27  sudo apt update
+   28  sudo apt install openssh-server
+   29  sudo apt --fix-broken install
+   30  sudo apt remove nvidia-cuda-toolkit
+   31  sudo apt --fix-broken install
+   32  sudo apt autoremove
+   33  nvcc -V
+   34  nvidia-smi
+   35  cd ~/Downloads/
+   36  ls
+   37  sudo chmod +x Anaconda3-2022.05-Linux-x86_64.sh 
+   38  ls
+   39  ./Anaconda3-2022.05-Linux-x86_64.sh 
+   40  conda create -n master38 python=3.8
+   41  conda
+   42  conda init
+   43  source ~/.bashrc 
+   44  conda create -n master38 python=3.8
+   45  cd ~/
+   46  ls
+   47  cd anaconda3/
+   48  ls
+   49  clear
+   50  ls
+   51  vim ~/.bashrc 
+   52  sudo apt install vim
+   53  vim ~/.bashrc 
+   54  conda
+   55  ls
+   56  sudo apt install terinator
+   57  sudo apt install terminator
+   58  conda
+   59  sudo rebot
+   60  sudo reboot
+   61  conda
+   62  sudo apt install openssh-server
+   63  sudo systemctl status ssh
+   64  sudo ufw disable
+   65  conda
+   66  cd ~/Downloads/
+   67  ls
+   68  ./Anaconda3-2022.05-Linux-x86_64.sh 
+   69  ./Anaconda3-2022.05-Linux-x86_64.sh -U
+   70  rm -rf ~/anaconda3
+   71  ./Anaconda3-2022.05-Linux-x86_64.sh -U
+   72  source ~/.bashrc 
+   73  conda create -n master38 python=3.8
+   74  nvidia-smi
+   75  sudo vim ~/.bashrc 
+   76  vim ~/.bashrc 
+   77  source ~/.bashrc 
+   78  nvcc -V
+   79  ssh
+   80  sudo apt --fix-broken install
+   81  nvidia-smi
+   82  nvcc -V
+   83  clear
+   84  cd ~/Downloads/
+   85  ls
+   86  cd cudnn-linux-x86_64-8.4.0.27_cuda10
+   87  ls
+   88  cd cudnn-linux-x86_64-8.4.0.27_cuda10.2-archive/
+   89  ls
+   90  clear
+   91  ls
+   92  sudo cp -r ./lib/* /usr/local/cuda-10.2/include/
+   93  clear
+   94  ls
+   95  sudo cp -r ./lib/* /usr/local/cuda-10.2/lib/
+   96  sudo cp -r ./lib/* /usr/local/cuda-10.2/lib64/
+   97  clea
+   98  nvcc -V
+   99  clear
+  100  nvcc -V
+  101  nvidia-smi
+  102  clear
+  103  ls
+  104  r
+  105  sudo reboot
+  106  cd ./W
+  107  mkdir ./workspace
+  108  cd ./workspace/
+  109  git clone https://github.com/lukasruff/Deep-SAD-PyTorch.git
+  110  sudo apt install git
+  111  git clone https://github.com/lukasruff/Deep-SAD-PyTorch.git
+  112  cd ./Deep-SAD-PyTorch/
+  113  conda activate master36
+  114  conda activate master38
+  115  exit
+  116  ls
+  117  clear
+  118  ls
+  119  clear
+  120  ls
+  121  exit
+  122  nvidia-smi
+  123  clear
+  124  ls
+  125  clear
+  126  ls
+  127  nvidia-smi
+  128  clear
+  129  ls
+  130  clear
+  131  l
+  132  ls
+  133  passwd neumann
+  134  ls
+  135  clear
+  136  ls
+  137  cd ./workspace/
+  138  ls
+  139  conda env list
+  140  conda activate master38
+  141  ls
+  142  sudo apt install jupyter
+  143  jupyter notebook
+  144  ifconfig
+  145  sudo apt install net-tools
+  146  tmux create -s jupyter
+  147  sudo apt instal ltmux
+  148  sudo apt install tmux
+  149  tmux create -s jupyter
+  150  tmux  new -s jupyter
+  151  conda activate master38
+  152  l;s
+  153  ls
+  154  ifconfig
+  155  jupyter notebook 
+  156  clear
+  157  l;s
+  158  ls
+  159  jupyter notebook --generate-config
+  160  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  161  ifconfig
+  162  python
+  163  jupyter notebook --generate-config
+  164  clear
+  165  jupyter notebook 
+  166  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  167  ls
+  168  pwd
+  169  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  170  jupyter notebook 
+  171  ifconfig
+  172  '
+  173  jupyter notebook 
+  174  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  175  jupyter notebook 
+  176  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  177  jupyter notebook 
+  178  python3
+  179  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  180  jupyter notebook 
+  181  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  182  python
+  183  jupyter notebook 
+  184  python -m notebook.auth password
+  185  conda install -c conda-forge notebook
+  186  jupyter notebook
+  187  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  188  jupyter notebook
+  189  EXIT
+  190  exit
+  191  conda activate master38
+  192  jupyter notebook
+  193  ls
+  194  clear
+  195  ls
+  196  tmux ls
+  197  tmux attach -t jupyter
+  198  python
+  199  tmux attach -t jupyter
+  200  tmux new -s jupyter
+  201  clear
+  202  python
+  203  tmux attach -t jupyter
+  204  tmux ls
+  205  tmux new -s jupyter
+  206  vim ~/.jupyter/jupyter_notebook_config.py 
+  207  python
+  208  tmux attach -t jupyter
+  209  conda activate master38
+  210  pip install click
+  211  python
+  212  conda env list
+  213  conda activate ad
+  214  python
+  215  pip install jupyter
+  216  jupyter notebook
+  217  rm  /home/neumann/.jupyter/jupyter_notebook_config.py 
+  218  jupyter notebook
+  219  vim /home/neumann/.jupyter/jupyter_notebook_config.json 
+  220  python
+  221  rm /home/neumann/.jupyter/jupyter_notebook_config.json 
+  222  jupyter notebook --generate-config
+  223  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  224  jupyter notebook
+  225  python
+  226  jupyter notebook
+  227  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  228  jupyter notebook
+  229  ls
+  230  python
+  231  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  232  cl;ear
+  233  ls
+  234  conda install ipykerna
+  235  conda install ipykernel
+  236  python -m ipykernel install --user --name ad --disoplay-name ad
+  237  python -m ipykernel install --user --name ad --display-name ad
+  238  tmux attach -t jupyter
+  239  ls
+  240  clear
+  241  ls
+  242  nvidia-smi
+  243  ls
+  244  clear
+  245  ls
+  246  conda activate ad
+  247  python main.py mnist mnist_LeNet ../log/DeepSAD/mnist_test ../data --ratio_known_outlier 0.01 --ratio_pollution 0.1 --lr 0.0001 --n_epochs 150 --lr_milestone 50 --batch_size 128 --weight_decay 0.5e-6 --pretrain True --ae_lr 0.0001 --ae_n_epochs 150 --ae_batch_size 128 --ae_weight_decay 0.5e-3 --normal_class 0 --known_outlier_class 1 --n_known_outlier_classes 1;
+  248  python main.py mnist mnist mnist_LeNet ../log/DeepSAD/mnist_test ../data --ratio_known_outlier 0.01 --ratio_pollution 0.1 --lr 0.0001 --n_epochs 150 --lr_milestone 50 --batch_size 128 --weight_decay 0.5e-6 --pretrain True --ae_lr 0.0001 --ae_n_epochs 150 --ae_batch_size 128 --ae_weight_decay 0.5e-3 --normal_class 0 --known_outlier_class 1 --n_known_outlier_classes 1;
+  249  clear
+  250  python main.py mnist mnist mnist_LeNet ../log/DeepSAD/mnist_test ../data --ratio_known_outlier 0.01 --ratio_pollution 0.1 --lr 0.0001 --n_epochs 150 --lr_milestone 50 --batch_size 128 --weight_decay 0.5e-6 --pretrain True --ae_lr 0.0001 --ae_n_epochs 150 --ae_batch_size 128 --ae_weight_decay 0.5e-3 --normal_class 0 --known_outlier_class 1 --n_known_outlier_classes 1;
+  251  quit()
+  252  exit
+  253  ls
+  254  clear
+  255  ls
+  256  ㅣㄴ
+  257  ls
+  258  CD ..
+  259  LS
+  260  cd ...
+  261  ls
+  262  tmux new -s ad_tesst
+  263  nvidia-smi
+  264  nvidia-smi -l 1
+  265  tmux attach -t test_ad
+  266  tmux attach -t ad_test
+  267  tmux attach -t  ad_tesst
+  268  ls
+  269  cd ..
+  270  git clone https://github.com/thuml/Universal-Domain-Adaptation.git
+  271  ls
+  272  cd Universal-Domain-Adaptation/
+  273  ls
+  274  conda activate ad
+  275  conda create -n uda --clone ad
+  276  conda activate uda
+  277  ls
+  278  pip install -r requirements.txt
+  279  python main.py --config officehome-train-config.yaml
+  280  pip install yaml
+  281  python main.py --config officehome-train-config.yaml
+  282  pip install pyyaml
+  283  python main.py --config officehome-train-config.yaml
+  284  ls
+  285  vim officehome-train-config.yaml 
+  286  ls
+  287  python main.py --config officehome-train-config.yaml
+  288  pip install pyyaml==5.4.1
+  289  python main.py --config officehome-train-config.yaml
+  290  ls ./data/office/
+  291  ls
+  292  cd ..
+  293  git clone https://github.com/charlesq34/pointnet2.git
+  294  ls
+  295  cd pointnet2/
+  296  ls
+  297  cd part_seg/
+  298  ls
+  299  conda create -n point_seg --clone uda
+  300  conda activate point_seg
+  301  python train.py 
+  302  cd ..
+  303  git clone https://github.com/erikwijmans/Pointnet2_PyTorch.git
+  304  ㅣㄴ
+  305  ls
+  306  rm -rf ./pointnet2
+  307  cd Pointnet2_PyTorch/
+  308  ls
+  309  pip install -r requirements.txt
+  310  python pointnet2/train.py task=semseg
+  311  clear
+  312  ls
+  313  python pointnet2/train.py task=semseg
+  314  conda create -n point_seg_37 
+  315  conda activate point_seg_37
+  316  pip install -r requirements.txt
+  317  sudo apt install python-pip
+  318  conda deactivate
+  319  conda env remove --name point_seg_37
+  320  conda create -n point_seg_37 --python=3.7
+  321  conda create -n point_seg_37 python=3.7
+  322  conda actgivate point_seg_37
+  323  conda activate point_seg_37
+  324  pip install -r requirements.txt
+  325  conda activate point_seg
+  326  clear
+  327  python pointnet2/train.py task=semseg
+  328  python
+  329  pip install setuptools==59.5.0
+  330  python pointnet2/train.py task=semseg
+  331  clear
+  332  python pointnet2/train.py task=semseg
+  333  ls
+  334  python pointnet2/train.py task=semseg
+  335  pip install -e .
+  336  python pointnet2/train.py task=semseg
+  337  sudo apt-get install curl
+  338  python pointnet2/train.py task=semseg
+  339  ls
+  340  cd pointnet2
+  341  ls
+  342  cd data/
+  343  ls
+  344  wget https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip
+  345  wget --no-check-certificate https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip
+  346  ls
+  347  cd ..
+  348  python pointnet2/train.py task=semseg
+  349  ls
+  350  cd pointnet2
+  351  ls
+  352  vim __init__.py 
+  353  vim config/
+  354  cd config/
+  355  ls
+  356  vim config.yaml 
+  357  cd ..
+  358  ls
+  359  cd ..
+  360  ls
+  361  python pointnet2/train.py task=semseg
+  362  vim ./pointnet2/train.py 
+  363  python pointnet2/train.py task=semseg
+  364  vim ./pointnet2/train.py 
+  365  python pointnet2/train.py task=semsegw
+  366  python pointnet2/train.py task=semseg
+  367  clear
+  368  python pointnet2/train.py task=semseg
+  369  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -o /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  370  sudo apt-get install ca-certificates
+  371  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -o /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  372  sudo apt autoremove
+  373  sudo apt-get install ca-certificates
+  374  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -o /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  375  ls
+  376  cd pointnet2
+  377  ls
+  378  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -o /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  379  ㅣㄴ
+  380  ls
+  381  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -ㅏ /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  382  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -k /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  383  curl https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip -o /home/neumann/workspace/Pointnet2_PyTorch/pointnet2/data/indoor3d_sem_seg_hdf5_data.zip
+  384  cd ..
+  385  python pointnet2/train.py task=semsegw
+  386  python pointnet2/train.py task=semseg
+  387  python tests/test_semseg.py 
+  388  pip install pytest
+  389  python tests/test_semseg.py 
+  390  python pointnet2/train.py task=semse
+  391  python pointnet2/train.py task=semseg
+  392  ls
+  393  clear
+  394  ls
+  395  grep -R 'train_dataloader' ./
+  396  grep -R 'train_dataloader()' ./
+  397  grep -R 'dataloader()' ./
+  398  grep -R 'val_dset' ./*
+  399  python pointnet2/train.py task=cls
+  400  ls
+  401  cd pointnet2/data/
+  402  ls
+  403  wget https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip
+  404  wget --no-check-cerficiate https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip
+  405  wget --no-check-certificate https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip
+  406  ㅣㄴ
+  407  ls
+  408  python pointnet2/train.py task=cls
+  409  cd ..
+  410  python pointnet2/train.py task=cls
+  411  cd ..
+  412  rm -rf ./Pointnet2_PyTorch
+  413  git clone https://github.com/yanx27/Pointnet_Pointnet2_pytorch.git
+  414  칟ㅁㄱ
+  415  clear
+  416  conda install pytorch==1.6.0 cudatoolkit=10.1 -c pytorch
+  417  ls
+  418  cd Pointnet_Pointnet2_pytorch/
+  419  ls
+  420  mkdir data
+  421  cd data
+  422  wget https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip
+  423  wget --no-check-certificate https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip
+  424  ls
+  425  unzip shapenetcore_partanno_segmentation_benchmark_v0_normal.zip 
+  426  ls
+  427  cd ..
+  428  python train_partseg.py --model pointnet2_part_seg_msg --normal --log_dir pointnet2_part_seg_msg
+  429  cd ./data
+  430  wget https://shapenet.cs.stanford.edu/media/Stanford3dDataset_v1.2_Aligned_Version.ZIP
+  431  wget --no-check-certificate https://shapenet.cs.stanford.edu/media/Stanford3dDataset_v1.2_Aligned_Version.zip
+  432  cd ..
+  433  cd data_utils/
+  434  ls
+  435  python indoor3d_util.py 
+  436  python collect_indoor3d_data.py 
+  437  ls
+  438  cd ..
+  439  ls
+  440  mkdir custom_dataset
+  441  ls
+  442  cd su
+  443  cd custom_dataset/
+  444  clear
+  445  ls
+  446  sftp kcl@198.244.167.209
+  447  ls
+  448  cd ..
+  449  ls
+  450  cd custom_dataset/
+  451  ls
+  452  cd 104592/
+  453  ls
+  454  cd 104592000099/
+  455  ls
+  456  cp 2022_05_27__23_32_24_678792 ../../../
+  457  cp -R 2022_05_27__23_32_24_678792 ../../../
+  458  clear
+  459  conda install ipykernel
+  460  python -m ipykernel install --user --name point_seg --display_name point_seg
+  461  python -m ipykernel install --user --name point_seg --display-name point_seg
+  462  jupyter lab
+  463  ls
+  464  tmux ls
+  465  tmux as_test
+  466  tmux attach -t ad_tesst
+  467  tmux attach -t jupyter
+  468  ls 
+  469  tmux new -s jupyter
+  470  tmux attach -t jupyter
+  471  conda activate point_seg
+  472  pip install opencv-python
+  473  pip install plydata
+  474  pip install plyfile
+  475  pip instal pptk
+  476  pip instal pptx
+  477  pip install pptk
+  478  conda install pptx
+  479  conda install pptk
+  480  pip install open3d
+  481  pip install pptk
+  482  clear
+  483  pip install pptk
+  484  conda install pptk
+  485  python -c "from open3d.j_visualizer import JVisualizer"
+  486  pip install open3d
+  487  python -c "from open3d.j_visualizer import JVisualizer"
+  488  conda install open3d
+  489  python -c "import open3d as o3d; print(o3d.__version__)"
+  490  pip install pyntcloud
+  491  nvidia-smi -l 1
+  492  htop
+  493  exit
+  494  conda activate point_seg
+  495  cd ./workspace/Pointnet_Pointnet2_pytorch/
+  496  pip install ./pptk-0.1.0-cp37-none-manylinux1_x86_64.whl 
+  497  pip install matplotlib
+  498  pip install mpl_toolkits
+  499  pip3 install ipympl
+  500  conda activate master38
+  501  jupyter notebook
+  502  conda deactivate
+  503  python -m notebook.auth password
+  504  jupyter notebook
+  505  clear
+  506  ls
+  507  conda acitvate master38
+  508  conda activate master38
+  509  clear
+  510  ls
+  511  pip install jupyter
+  512  conda decativate
+  513  conda deactivate
+  514  pip uninstall jupyter
+  515  ls
+  516  conda activate master38
+  517  jupyter notebook
+  518  conda activate ad
+  519  jupyter notebook
+  520  python
+  521  vim /home/neumann/.jupyter/jupyter_notebook_config.py 
+  522  jupyter notebook
+  523  jupyter lab
+  524  conda install -c conda-forge jupyterlab
+  525  jupyter-lab --generate-config
+  526  vim /home/neumann/.jupyter/jupyter_lab_config.py 
+  527  jupyter lab
+  528  python -m jupyter_server.auth password
+  529  jupyter lab
+  530  vim /home/neumann/.jupyter/jupyter_lab_config.py 
+  531  jupyter lab
+  532  quit()
+  533  conda decative
+  534  conda deactivate
+  535  conda eng list
+  536  conda env list
+  537  conda activate point_seg
+  538  clear
+  539  ls
+  540  jupyter lab
+  541  exit
+  542  sudo apt install thop
+  543  htop
+  544  sudo apt install htop
+  545  conda activate point_seg
+  546  conda install jupyter-matplotlib
+  547  pip install ipyvolume
+  548  pip install ipyvolume==0.6.0a3
+  549  pip install ipyvolume==0.6.0a6
+  550  conda install -c conda-forge nodejs
+  551  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  552  conda install -c conda-forge nodejs>=12.0.0
+  553  pip isntal ss
+  554  pip instal nodejs>=12.0.0
+  555  conda install -c conda-forge ipyvolume
+  556  conda install -c conda-forge nodejs
+  557  conda update -n base -c defaults conda
+  558  conda install -c conda-forge nodejs
+  559  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  560  install nodejs >=12.0.0
+  561  sudo apt -y install nodejs
+  562  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  563  conda install -c conda-forge/label/gcc7 nodejs
+  564  conda install -c conda-forge/label/cf201901 nodejs
+  565  conda install -c conda-forge/label/cf202003 nodejs
+  566  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  567  tmux attach -t point_seg
+  568  tmux ls
+  569  tmux attach -t jupyter
+  570  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  571  jupyter labextension install ipyvolume
+  572  jupyter labextension install jupyter-threejs
+  573  pip install ipyvolume
+  574  pip install -U ipyvolume
+  575  tmux ls
+  576  tmux new -s jupyter
+  577  cd ../../
+  578  cd ./Pointnet_Pointnet2_pytorch/
+  579  cd data_utils/
+  580  conda activate point_seg
+  581  python collect_indoor3d_data.py
+  582  cd ..
+  583  ls
+  584  python train_semseg.py --model pointnet2_sem_seg --test_area 5 --log_dir pointnet2_sem_seg
+  585  ls ./models
+  586  python train_semseg.py --model pointnet2_sem_seg --test_area 5 --log_dir pointnet2_sem_seg
+  587  cd ./data
+  588  ls
+  589  cd s3dis/
+  590  ls
+  591  rm -rf ./stanford_indoor3d
+  592  mv ./Stanford3dDataset_v1.2_Aligned_Version-001.zip ../../
+  593  ls
+  594  cd ..
+  595  cd ../data_utils/
+  596  ls
+  597  python indoor3d_util.py 
+  598  python collect_indoor3d_data.py
+  599  cd ..
+  600  python train_semseg.py --model pointnet2_sem_seg --test_area 5 --log_dir pointnet2_sem_seg
+  601  ls
+  602  ls ./data/s3dis/
+  603  ls ./data
+  604  mv ./data/stanford_indoor3d ./data/s3dis/
+  605  ls ./data/s3dis/
+  606  python train_semseg.py --model pointnet2_sem_seg --test_area 5 --log_dir pointnet2_sem_seg
+  607  cd ./data_utils/
+  608  python collect_indoor3d_data.py 
+  609  sudo pkill -9 python
+  610  python collect_indoor3d_data.py 
+  611  python generate_RDDdata.py 
+  612  python collect_indoor3d_data.py 
+  613  sudo pkill python
+  614  python generate_RDDdata.py 
+  615  sudo pkill python
+  616  xcd ..
+  617  cd ..
+  618  python train_semseg.py --model pointnet2_sem_seg --test_area 5 --log_dir pointnet2_sem_seg
+  619  grep -r 'ScannetDatasetWholeScene' ./*
+  620  python train_semseg.py --model pointnet2_sem_seg --test_area 5 --log_dir pointnet2_sem_seg
+  621  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_sem_seg
+  622  python train_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_sem_seg
+  623  quit()
+  624  python train_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_sem_seg
+  625  tmux ls
+  626  tmux new -s rdd
+  627  tmux new -s monitoring
+  628  exit
+  629  ls
+  630  cd ./workspace/
+  631  ls
+  632  cd Pointnet_Pointnet2_pytorch/
+  633  ls
+  634  cd data
+  635  ls
+  636  cd s3dis/
+  637  ls
+  638  cd stanford_indoor3d/
+  639  ls
+  640  ls -al
+  641  unzip ./Stanford3dDataset_v1.2_Aligned_Version-001.zip t
+  642  ls
+  643  cd ..
+  644  cp ./stanford_indoor3d/Stanford3dDataset_v1.2_Aligned_Version-001.zip ./
+  645  ls
+  646  unzip Stanford3dDataset_v1.2_Aligned_Version-001.zip 
+  647  ls
+  648  cd ../../
+  649  cd ./data/s3dis/
+  650  ls
+  651  ;s
+  652  nvidia-smi
+  653  tmux attach -t rdd
+  654  nvidia-smi -l 1
+  655  d
+  656  htop
+  657  tmux attach -t rdd
+  658  ls
+  659  cd ./W
+  660  ls
+  661  tmux attach -t point_seg
+  662  tmux ls
+  663  tmux attach rdd
+  664  tmux attach -t rdd
+  665  nvidia-smi
+  666  tmux attach -t rdd
+  667  nvidia-smi
+  668  tmux atach -t
+  669  tmux ls
+  670  tmux attach -t monitoring
+  671  exit
+  672  conda activate point_seg
+  673  pip install tensorboard
+  674  tmux attach -t rdd
+  675  ls
+  676  tmux ls
+  677  tmux attach monitoring
+  678  tmux attach -t monitoring
+  679  tmux attach -t rdd
+  680  exit
+  681  ls
+  682  nvidia-smi
+  683  tmux attach -t rdd
+  684  cl;ear
+  685  clear
+  686  tmux attach -t rdd
+  687  htop
+  688  clear
+  689  exit
+  690  ls
+  691  tmux attach -t rdd
+  692  exit
+  693  tmux attach -t rdd
+  694  sudo apt-get install tree
+  695  ls
+  696  clear
+  697  ls
+  698  cd ./workspace/
+  699  ls
+  700  cd Pointnet_Pointnet2_pytorch/
+  701  ls
+  702  cd custom_dataset/
+  703  ls
+  704  tree ./104592/
+  705  ls
+  706  exit
+  707  ls
+  708  cd ./workspace/
+  709  ls
+  710  git clone https://github.com/andreYoo/RDD_point_clouds.git
+  711  l;s
+  712  lls
+  713  ls
+  714  tmux attach -t rdd
+  715  sudo pkill python
+  716  tmux attach -t rdd
+  717  ls
+  718  cp -r ./Pointnet_Pointnet2_pytorch/* ./RDD_point_clouds/
+  719  ls
+  720  cd RDD_point_clouds/
+  721  ls
+  722  cd ..
+  723  ls
+  724  rsync -r --verbose --exclude 'exclude_pattern' ./* /to/where/
+  725  cd ./Pointnet_Pointnet2_pytorch/
+  726  ls
+  727  rsync -r --verbose --exclude 'exclude_pattern' ./* /to/where/
+  728  rsync -r --verbose --exclude 'custom_dataset' ./* ../RDD_point_clouds/
+  729  ls
+  730  cd ..
+  731  ls
+  732  cd RDD_point_clouds/
+  733  ls
+  734  cd data/
+  735  ls
+  736  rm shapenetcore_partanno_segmentation_benchmark_v0_normal.zip 
+  737  rm -rf./ stanford_indoor3d
+  738  ls
+  739  rm -rf ./stanford_indoor3d
+  740  ls
+  741  rm -rf ./Stanford3dDataset_v1.2_Aligned_Version-001.zip 
+  742  rm -rf ./shapenetcore_partanno_segmentation_benchmark_v0_normal
+  743  ls
+  744  rm -rf ./s3dis
+  745  ls
+  746  cd ..
+  747  ls
+  748  rm -rf ./custom_dataset
+  749  ls
+  750  cd data/
+  751  ls
+  752  cd robotiz3d_RDD/
+  753  ls
+  754  cd ..
+  755  ls
+  756  cd ..
+  757  ls
+  758  rm pptk-0.1.0-cp37-none-manylinux1_x86_64.whl 
+  759  ls
+  760  rm ./Stanford3dDataset_v1.2_Aligned_Version-001.zip
+  761  ls
+  762  clear
+  763  ls
+  764  df -al
+  765  cd ..
+  766  ls
+  767  cd RDD_point_clouds/
+  768  ls
+  769  ls ../Pointnet_Pointnet2_pytorch/
+  770  cp -r ../Pointnet_Pointnet2_pytorch/data_utils ./
+  771  ls
+  772  cp -r ../Pointnet_Pointnet2_pytorch/models ./
+  773  cp -r ../Pointnet_Pointnet2_pytorch/log ./
+  774  ls
+  775  cp -r ../Pointnet_Pointnet2_pytorch/*.py ./
+  776  ls
+  777  ls ../Pointnet_Pointnet2_pytorch/
+  778  cp -r ../Pointnet_Pointnet2_pytorch/*.txt ./
+  779  ls
+  780  cp -r ../Pointnet_Pointnet2_pytorch/visualizer ./
+  781  ls
+  782  cp -r ../Pointnet_Pointnet2_pytorch/test_sample ./
+  783  ls
+  784  vim README.md 
+  785  rm ./README.md 
+  786  ls
+  787  clear
+  788  ls
+  789  vim .gitignore
+  790  ls
+  791  mkdir logs
+  792  ls
+  793  cd log
+  794  ls
+  795  cd ..
+  796  ls
+  797  vim .gitignore 
+  798  git add ./*
+  799  git commit -m 'rdd_code_update'
+  800  git config --global user.email "jm.andrew.yu@gmail.com"
+  801  git config --global user.name "Jongmin Yu"
+  802  git commit -m 'rdd_code_update'
+  803  git push origin master
+  804  git push origin main
+  805  l;s
+  806  ls
+  807  git push origin main
+  808  ls
+  809  rm -rf ./data
+  810  ls
+  811  cd ..
+  812  ls
+  813  mv ./RDD_point_clouds tmp
+  814  ls
+  815  git clone https://github.com/andreYoo/RDD_point_clouds.git
+  816  cp -r ./tmp/* ./RDD_point_clouds/
+  817  ls
+  818  cd ./RDD_point_clouds/
+  819  ls
+  820  git add ./*
+  821  git commit -m 'project update'
+  822  git push origin main
+  823  ls
+  824  clear
+  825  s
+  826  ls
+  827  tmux attach -t rdd
+  828  ls
+  829  clear
+  830  ls
+  831  tmux attach -t tmux
+  832  ls
+  833  cd ./workspace/
+  834  ls
+  835  tmux attach -trdd
+  836  tmux attach -t monitoring
+  837  tmux attach -t rdd
+  838  clear
+  839  ls
+  840  clear
+  841  ls
+  842  tmux attach -t rdd
+  843  d
+  844  htop
+  845  tmux attach -t rdd
+  846  d
+  847  sudo pkill python
+  848  ls
+  849  tmux attach -t rdd
+  850  tmux attach -t monitoring
+  851  tmux attach -t rdd
+  852  nvidia-smi -l 1
+  853  exit
+  854  htop
+  855  clear
+  856  nvidia-smi -l 1
+  857  d
+  858  exit
+  859  nvidia-smi
+  860  tmux attach -t rdd
+  861  tmux attach -t rad
+  862  exit
+  863  cond activate rdd
+  864  cond activate point_seg
+  865  conda activate point_seg
+  866  clear
+  867  ls
+  868  python train_rdd_ad_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+  869  cldar
+  870  clear
+  871  python train_rdd_ad_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+  872  clea
+  873  clear
+  874  python train_rdd_ad_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+  875  clear
+  876  python train_rdd_ad_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+  877  clear
+  878  nvidia-smi
+  879  clear
+  880  python train_rdd_ad_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+  881  nvidia-smi
+  882  clear
+  883  python train_rdd_ad_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+  884  exit
+  885  conda activate point_seg
+  886  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  887  clear
+  888  ls
+  889  s
+  890  ls
+  891  clear
+  892  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  893  python train_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  894  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  895  clear
+  896  ls
+  897  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  898  nvidia-smi
+  899  thop
+  900  hto
+  901  htop
+  902  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  903  clear
+  904  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  905  python train_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  906  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  907  python train_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  908  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  909  python train_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  910  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  911  cd data_utils/
+  912  python collect_indoor3d_data.py 
+  913  sudo pkill python
+  914  ls
+  915  python generate_RDDdata.py 
+  916  sudo pkill python
+  917  clear
+  918  ls
+  919  python generate_RDDdata.py 
+  920  sudo pkill python
+  921  python generate_RDDdata.py 
+  922  sudo pkill python
+  923  clear
+  924  python generate_RDDdata.py 
+  925  sudo pkill python
+  926  python generate_RDDdata.py 
+  927  sudo pkill python
+  928  python generate_RDDdata.py 
+  929  ls
+  930  cd ..
+  931  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  932  clear
+  933  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  934  clear
+  935  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  936  pip install setuptools==59.5.0
+  937  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  938  clear
+  939  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  940  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir ./los/pointnet2_rdd_sem_seg
+  941  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir ./pointnet2_rdd_sem_seg
+  942  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  943  cldear
+  944  clear
+  945  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg
+  946  ls
+  947  cd data
+  948  cd ../data_utils/
+  949  ls
+  950  python generate_RDDdata.py 
+  951  cldar
+  952  python generate_RDDdata.py 
+  953  sudo pkill python
+  954  python generate_RDDdata.py 
+  955  clear
+  956  python generate_RDDdata.py 
+  957  sudo pkill python
+  958  python generate_RDDdata.py 
+  959  cd ..
+  960  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg & python ./data_utils/generate_RDDdata.py 
+  961  d
+  962  ㅣㄴ
+  963  ls
+  964  clear
+  965  cd ./custom_dataset/
+  966  ls
+  967  sftp kcl@198.244.167.209
+  968  cd ../data_utils/
+  969  ls
+  970  python generate_RDDdata.py 
+  971  ls
+  972  cd ..
+  973  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_seg & python ./data_utils/generate_RDDdata.py 
+  974  clear
+  975  ls
+  976  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_se
+  977  lks
+  978  clear
+  979  ls
+  980  clear
+  981  ls
+  982  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_rdd_sem_se
+  983  d
+  984  exit()
+  985  ç
+  986  clear
+  987  ls
+  988  tmux ls
+  989  tmux attach -t rad
+  990  tmux attach -t rdd
+  991  tmux ls
+  992  tmux attach -t rdd
+  993  tmux detach ' '
+  994  tmux detach ''
+  995  tmux detach .
+  996  tmux detatch rdd
+  997  tmux detach rdd
+  998  tmux ls
+  999  exit
+ 1000  cd ./workspace/Pointnet_Pointnet2_pytorch/
+ 1001  ls
+ 1002  conda activate rd
+ 1003  conda activate rdd
+ 1004  conda activate point_seg
+ 1005  clear
+ 1006  ls
+ 1007  history
+ 1008  q!
+ 1009  clear
+ 1010  python train_rdd_semseg.py --model pointnet2_sem_seg --log_dir pointnet2_ad_seg
+ 1011  exit
+ 1012  l
+ 1013  tmux attach -t rdd
+ 1014  tmux ls
+ 1015  tmux new -s rdd
+ 1016  exit
+ 1017  ls
+ 1018  cd ./workspace/
+ 1019  ls
+ 1020  git clone https://github.com/aRI0U/RandLA-Net-pytorch
+ 1021  ㅣㄴ
+ 1022  ls
+ 1023  cd ..
+ 1024  ls
+ 1025  history
+ 1026  history > log.txt
